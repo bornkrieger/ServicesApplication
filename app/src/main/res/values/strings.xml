@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServicesApplication</string>
+    <string name="local_service_label">string</string>
+    <string name="local_service_started">service started</string>
+</resources>
